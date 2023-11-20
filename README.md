@@ -10,6 +10,12 @@
 
 Be part of the revolution! **AutoGPT** stays at the forefront of AI innovation, featuring the codebase for the reigning champion in the Open-Source ecosystem.
 
+
+
+
+
+
+
 ---
 
 <p align="center">
